@@ -10,8 +10,7 @@ namespace HW_SEL_ADV
     public class Tests
     {
         private IWebDriver driver;
-        //private User user = new User("user", "user");
-
+        
         [OneTimeSetUp]
 
         public void SetupTest()

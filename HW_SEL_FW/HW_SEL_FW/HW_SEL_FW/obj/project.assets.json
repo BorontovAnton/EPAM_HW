@@ -5022,7 +5022,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Администратор\\.nuget\\packages\\": {}
+    "C:\\Users\\Антон\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -5030,11 +5030,11 @@
       "projectUniqueName": "C:\\Users\\Антон\\Desktop\\EPAM_HW\\EPAM_HW\\HW_SEL_FW\\HW_SEL_FW\\HW_SEL_FW\\HW_SEL_FW.csproj",
       "projectName": "HW_SEL_FW",
       "projectPath": "C:\\Users\\Антон\\Desktop\\EPAM_HW\\EPAM_HW\\HW_SEL_FW\\HW_SEL_FW\\HW_SEL_FW\\HW_SEL_FW.csproj",
-      "packagesPath": "C:\\Users\\Администратор\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Антон\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Антон\\Desktop\\EPAM_HW\\EPAM_HW\\HW_SEL_FW\\HW_SEL_FW\\HW_SEL_FW\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Администратор\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Антон\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
